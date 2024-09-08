@@ -52,6 +52,7 @@ public class POMSearch {
 		{
 		getQA().click();
 		Thread.sleep(2000);
+		System.out.println("CLICKED ==========");
 		}
 		catch(Exception e)
 		{
